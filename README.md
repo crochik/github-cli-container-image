@@ -1,6 +1,6 @@
 # github-cli-container-image
 
-Simple alpine image with git and github client
+Simple alpine image with git and github client. It is published as crochik/alpine:gh ([docker hub](https://hub.docker.com/r/crochik/alpine))
 
 ## How to use
 
